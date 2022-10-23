@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+ormconfig.json
+.vscode
+.idea
+typings/
+output/**/*.*
+.nyc_output/
+coverage/
+dist
+*.tgz
+.tomg-config
